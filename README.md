@@ -1,5 +1,5 @@
 # Coffee-Store-Analysis-Dashboard
-<img src="./Coffee.png" width="3000" height="600"/>&nbsp;
+<img src="./Coffee.png"/>&nbsp;
 
 
 ## Overview : 
